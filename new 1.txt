@@ -1,0 +1,26 @@
+﻿<html>
+<head>
+<title>Страничка Максима Мордасова</title>
+<style>
+body {
+    background-color:green;
+}
+</style>
+</head>
+<body>
+<h1>Хей это страница Максима. Он сам не знает зачем ему эта страница</h1>
+<img src ="https://cs5.pikabu.ru/post_img/2015/12/01/1/og_og_1448921706288548054.jpg" width="400" height="400">
+<h3>ну допустим вы разбили телефон а потом купили новый и хотите найти меня а я где-нибудь далеко вы зайдёте на этот сайт и найдёте меня и всё</h3>
+<p>Максимкин вк https://vk.com/id378125306</p>
+<p>номер телефона не скажу напишите мне и я отвечу</p>
+<p>instagram https://www.instagram.com/_mordamax_/</p>
+<h1>какие компьютерные игры я люблю</h1>
+<p>я люблю конечно всех(нет) но "Overwath,sims,roblox,undertale,NFS Most Wanted,hearthstone,PAYDAY 2" больше всех</p>
+<h1>каких разроботчиков я люблю</h1>
+<p> я люблю конечно всех (опять нет) но (Electronic Arts,Valve,Blizzard,ubisoft,microsoft)</p>
+<h1>Привет всем из Казахстана если будете заезжать в гости возьмите баурсак пожайлуста</h1>
+<img src="https://s1.1zoom.ru/b5050/459/266451-alexfas01_2048x1152.jpg" width="1000" height="800">
+<h2>Ну на этом моя страничка будет заканчиватся наврятли я сюда что-то добавлю. Пока</h2>
+<img src="http://risovach.ru/upload/2014/07/mem/smayl_55343019_orig_.jpeg"width="1299" height="800">
+</body>
+</html>
